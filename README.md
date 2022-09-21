@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitzz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mitzz-dev" /> </p>
 
-- 🔭 I’m currently working on [learn-git-hub](https://github.com/Mitzz-Dev/git-test)
+- 🔭 I’m currently working on [how-github-works](https://github.com/Mitzz-Dev/git-test)
 
 - ⚡ Fun fact **I think i know programming**
 
